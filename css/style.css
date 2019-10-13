@@ -209,7 +209,8 @@ span.menu{
 	padding:6em 0px;
 }
 .heading h2,.heading h3 {
-    color: #ae4d10;
+
+    color: #f7b345;
     font-size: 2.5em;
     margin: 0;
     font-family: 'AllertaStencil-Regular';
@@ -372,7 +373,7 @@ span.menu{
 	vertical-align:middle;
 }
 .add-left p {
-    font-size: 17px;
+    font-size: 15px;
     line-height: 1.8em;
     color: #99cc99;
     display: inline-block;
@@ -393,8 +394,8 @@ span.menu{
 /*--address-ends--*/
 /*--footer-starts--*/
 .footer{
-	background:#99cc99;
-	padding:3em 0px;
+	background:#f7b345;
+	padding:2em 0px;
 	text-align:center;
 }
 .footer-top a h3{
@@ -796,29 +797,34 @@ figure.effect-oscar:hover img {
     line-height: 1.5em;
     font-family: 'AllertaStencil-Regular';
 }
-.about-right p{
+.about-right p,.about-right  ul {
 	font-size: 16px;
     color: #999;
     line-height: 1.8em;
     margin-top:8px;
+}
+.about-right ul {
+    margin-left: 30px;
 }
 .why-top{
 	text-align:center;
 }
 .why-right img{
 	width:100%;
+    margin-bottom: 30px;
 }
-.why-left span{
-	display:inline-block;
-	vertical-align:top;
-	font-size:3em;
-	color: #ae4d10;
+.why-left span {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 3em;
+    color: #f7b345;
 }
 .why-text {
     display: inline-block;
     vertical-align: top;
     width: 85%;
     margin-left: 21px;
+    margin-bottom: 50px;
 }
 .why-text h4{
 	color: #99cc99;
@@ -1321,7 +1327,7 @@ a.tooltips span:before {
     font-size: 2.35em;
 }
 .footer {
-    padding: 2.2em 0px;
+    padding: 1em 0px;
 }
 }
 @media (max-width:736px){
