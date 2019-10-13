@@ -98,7 +98,7 @@ body a:hover{
 }
 .logo a h1{
 	font-size:2.7em;
-	color:#003366;
+	color:#ae4d10;
 	margin:0;
 	font-family: 'AllertaStencil-Regular';
 }
@@ -133,7 +133,7 @@ body a:hover{
     margin-bottom: 4px;
 }
 .top-nav ul li a:hover,.top-nav ul li a.active{
-	color:#003366;
+	color:#ae4d10;
 }
 @media(max-width:768px){
 span.menu{
@@ -189,7 +189,7 @@ span.menu{
 .banner-text h3 {
     color: #fff;
     padding: 10px 20px 61px 20px;
-    background: #003366;
+    background: #ae4d10;
     font-size: 2em;
 	margin:0;
 	font-family: 'AllertaStencil-Regular';
@@ -209,7 +209,7 @@ span.menu{
 	padding:6em 0px;
 }
 .heading h2,.heading h3 {
-    color: #003366;
+    color: #ae4d10;
     font-size: 2.5em;
     margin: 0;
     font-family: 'AllertaStencil-Regular';
@@ -236,7 +236,7 @@ span.menu{
 }
 .wel-left span{
 	font-size:3em;
-	color:#003366;
+	color:#ae4d10;
 }
 .wel-right h4 {
     color: #99cc99;
@@ -277,13 +277,13 @@ span.menu{
     padding: 9px 30px;
     font-size: 14px;
     cursor: pointer;
-    border: 1px double #003366;
+    border: 1px double #ae4d10;
     margin: 0 0 0 0px;
     outline: none;
-    background: #003366;
+    background: #ae4d10;
 }
 .letter-bottom form input[type=submit]:hover{
-	color:#003366;
+	color:#ae4d10;
 	background:#fff;
 	border: 1px double #fff;
 	transition: 0.5s all ease;
@@ -321,7 +321,7 @@ span.menu{
     position: absolute;
     bottom: -99%;
     right: 0;
-    background-color: #003366;
+    background-color: #ae4d10;
     padding: 7% 10%;
     text-align: center;
     -o-transition: all 0.3s ease;
@@ -365,7 +365,7 @@ span.menu{
 }
 .add-left span {
     font-size: 2.6em;
-    color: #003366;
+    color: #ae4d10;
     padding: 15px;
     border: 5px solid #CECECE;
 	display:inline-block;
@@ -385,7 +385,7 @@ span.menu{
 }
 .add-left p a:hover{
 	text-decoration:none;
-	color:#003366;
+	color:#ae4d10;
 }
 .add-left p label{
 	display:block;
@@ -412,7 +412,7 @@ span.menu{
 	color:#fff;
 }
 .footer-top p a:hover{
-	color:#003366;
+	color:#ae4d10;
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
 	-moz-transition: 0.5s all ease;
@@ -475,7 +475,7 @@ span.menu{
 }
 .date p {
     padding: 8px 15px;
-    background: #003366;
+    background: #ae4d10;
     color: #fff;
     font-size: 18px;
 }
@@ -494,7 +494,7 @@ span.menu{
 .help-right {
     width: 50%;
     float: right;
-    background: #003366;
+    background: #ae4d10;
     padding: 5.27% 3.5%;
 }
 .help-right h3{
@@ -514,6 +514,7 @@ span.menu{
     width: 90%;
 }
 .tool {
+    display: none;
     position: absolute;
     top: 110px;
     left: -36.65%;
@@ -534,7 +535,7 @@ a.tooltips span:before {
     width: 0;
     height: 0;
     border-top: 195px solid #036;
-    border-right: 0px solid #003366;
+    border-right: 0px solid #ae4d10;
     border-left: 416px solid transparent;
     transform: rotate(90deg);
 }
@@ -811,7 +812,7 @@ figure.effect-oscar:hover img {
 	display:inline-block;
 	vertical-align:top;
 	font-size:3em;
-	color: #003366;
+	color: #ae4d10;
 }
 .why-text {
     display: inline-block;
@@ -1970,3 +1971,9 @@ h5.hd {
 }
 }
 /*--media-quaries-end-here--*/
+
+
+/**** debut css personnalisé  ******/
+.container{
+    width: 1300px;
+}
