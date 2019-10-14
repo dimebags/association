@@ -30,58 +30,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--start-smoth-scrolling-->
 </head>
 <body>
-	<!--head-->
-	<div class="head" id="home">
-		<div class="container">
-			<div class="head-top">
-				<div class="col-md-6 h-left">
-					<p>+123 456 7897 , +132 567 8977</p>
-				</div>
-				<div class="col-md-6 h-right">
-					<ul>
-						<li><a href="#"><span class="fb"> </span></a></li>
-						<li><a href="#"><span class="twit"> </span></a></li>
-						<li><a href="#"><span class="pin"> </span></a></li>
-						<li><a href="#"><span class="rss"> </span></a></li>
-					</ul>
-				</div>
-				<div class="clearfix"></div>
-			</div>	
-		</div>
-	</div>
-	<!--head-->
-	<!--header-->	
-	<div class="header">
-		<div class="container">
-			<div class="header-main">
-				<div class="logo">
-					<a href="index.html"><h1>Humanity</h1></a>
-				</div>
-				<div class="head-right">	   		
-					<div class="top-nav">
-						<span class="menu"><img src="images/nav-icon.png" alt=""> </span>
-						<ul>
-							<li><a href="index.html"><span class="glyphicon glyphicon-home"></span>Home</a></li>
-							<li><a href="about.html"><span class="glyphicon glyphicon-info-sign"></span>About</a></li>							
-							<li><a href="typo.html"  class="active"><span class="glyphicon glyphicon-certificate"></span>Short Codes</a></li>	
-							<li><a href="gallery.html"><span class="glyphicon glyphicon-picture"></span>Gallery</a></li>								
-							<li><a href="contact.html"><span class="glyphicon glyphicon-envelope"></span>Contact</a></li>
-							<div class="clearfix"> </div>
-						</ul>
-						<!--script-->
-					<script>
-						$("span.menu").click(function(){
-							$(".top-nav ul").slideToggle(500, function(){
-							});
-						});
-					</script>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>	
-		</div>
-	</div>
-	<!--//header-->
+    <?php include 'header.php' ?>
 	<!--typo-starts-->
 	<div class="pages">
 		<div class="container">
@@ -405,16 +354,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!--address-end-->
-	<!--footer-starts-->
-	<div class="footer">
-		<div class="container">
-			<div class="footer-top">
-				<a href="index.html"><h3>Humanity</h3></a>
-				<p>© 2016 Humanity. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
-				<a href="#home" class="scroll"><img src="images/top-arrow.png" alt="" /></a>
-			</div>
-		</div>
-	</div>
-	<!--footer-end-->
+    <?php include 'footer.php' ?>
 </body>
 </html>

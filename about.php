@@ -30,61 +30,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--start-smoth-scrolling-->
 </head>
 <body>
-	<!--head-->
-	<div class="head" id="home">
-		<div class="container">
-			<div class="head-top">
-				<div class="col-md-6 h-left">
-						<img src="images/logo_acp_prevention_specialisee.png" alt="" />
-				</div>
-				<div class="col-md-6 h-right">
-					<ul>
-						<li><a href="#"><span class="fb"> </span></a></li>
-						<li><a href="#"><span class="twit"> </span></a></li>
-						<li><a href="#"><span class="pin"> </span></a></li>
-						<li><a href="#"><span class="rss"> </span></a></li>
-					</ul>
-				</div>
-				<div class="clearfix"></div>
-			</div>	
-		</div>
-	</div>
-	<!--head-->
-	<!--header-->	
-	<div class="header">
-		<div class="container">
-			<div class="header-main">
-				<div class="logo">
-					<a href="index.html"><h1>Association <br>Champigny <br> Prévention</h1></a>
-
-				</div>
-
-
-				<div class="head-right">	   		
-					<div class="top-nav">
-						<span class="menu"><img src="images/nav-icon.png" alt=""> </span>
-						<ul>
-							<li><a href="index.html"><span class="glyphicon glyphicon-home"></span>Accueil</a></li>
-							<li><a href="about.html"  class="active"><span class="glyphicon glyphicon-info-sign"></span>Qui sommes nous</a></li>
-							<li><a href="typo.html"><span class="glyphicon glyphicon-certificate"></span>Nos partenaires</a></li>
-							<li><a href="gallery.html"><span class="glyphicon glyphicon-picture"></span>Galerie</a></li>
-							<li><a href="contact.html"><span class="glyphicon glyphicon-envelope"></span>Contact</a></li>
-							<div class="clearfix"> </div>
-						</ul>
-						<!--script-->
-					<script>
-						$("span.menu").click(function(){
-							$(".top-nav ul").slideToggle(500, function(){
-							});
-						});
-					</script>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>	
-		</div>
-	</div>
-	<!--//header-->
+    <?php include 'header.php' ?>
 	<!--about-starts-->
 	<div class="about">
 		<div class="container">
@@ -237,43 +183,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!--team-end-->
-	<!--address-starts-->
-	<div class="address">
-		<div class="container">
-			<div class="address-top">
-				<div class="col-md-4 add-left">
-					<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-					<p><label>ACP
-						</label>
-						11 avenue Eugène Courel
-						94500 Champigny Sur Marne</p>
-				</div>
-				<div class="col-md-4 add-left">
-					<span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-					<p>Dominique Guibert
-						Directrice
-
-					<br>01.48.85.42.63</p>
-				</div>
-				<div class="col-md-4 add-left">
-					<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-					<p><a href="mailto:example@email.com">contact@acp-prevention-specialisee.fr</a></p>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
-	<!--address-end-->
-	<!--footer-starts-->
-	<div class="footer">
-		<div class="container">
-			<div class="footer-top">
-				<a href="index.html"><img src="images/logo_acp_prevention_specialisee.png" alt="" /><h3>Association Champigny Prévention</h3></a>
-				<p>© 2019 Association Champigny Prévention | All Rights Reserved  </p>
-				<a href="#home" class="scroll"><img src="images/top-arrow.png" alt="" /></a>
-			</div>
-		</div>
-	</div>
-	<!--footer-end-->
+    <?php include 'footer.php' ?>
 </body>
 </html>

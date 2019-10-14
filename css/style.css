@@ -98,7 +98,7 @@ body a:hover{
 }
 .logo a h1{
 	font-size:2.7em;
-	color:#ae4d10;
+	color:#f7b345;;
 	margin:0;
 	font-family: 'AllertaStencil-Regular';
 }
@@ -133,7 +133,7 @@ body a:hover{
     margin-bottom: 4px;
 }
 .top-nav ul li a:hover,.top-nav ul li a.active{
-	color:#ae4d10;
+	color:#f7b345;;
 }
 @media(max-width:768px){
 span.menu{
@@ -189,7 +189,7 @@ span.menu{
 .banner-text h3 {
     color: #fff;
     padding: 10px 20px 61px 20px;
-    background: #ae4d10;
+    background: #f7b345;;
     font-size: 2em;
 	margin:0;
 	font-family: 'AllertaStencil-Regular';
@@ -237,7 +237,7 @@ span.menu{
 }
 .wel-left span{
 	font-size:3em;
-	color:#ae4d10;
+	color:#f7b345;;
 }
 .wel-right h4 {
     color: #99cc99;
@@ -278,13 +278,13 @@ span.menu{
     padding: 9px 30px;
     font-size: 14px;
     cursor: pointer;
-    border: 1px double #ae4d10;
+    border: 1px double #f7b345;;
     margin: 0 0 0 0px;
     outline: none;
-    background: #ae4d10;
+    background: #f7b345;;
 }
 .letter-bottom form input[type=submit]:hover{
-	color:#ae4d10;
+	color:#f7b345;;
 	background:#fff;
 	border: 1px double #fff;
 	transition: 0.5s all ease;
@@ -322,7 +322,7 @@ span.menu{
     position: absolute;
     bottom: -99%;
     right: 0;
-    background-color: #ae4d10;
+    background-color: #f7b345;;
     padding: 7% 10%;
     text-align: center;
     -o-transition: all 0.3s ease;
@@ -366,7 +366,7 @@ span.menu{
 }
 .add-left span {
     font-size: 2.6em;
-    color: #ae4d10;
+    color: #f7b345;;
     padding: 15px;
     border: 5px solid #CECECE;
 	display:inline-block;
@@ -386,7 +386,7 @@ span.menu{
 }
 .add-left p a:hover{
 	text-decoration:none;
-	color:#ae4d10;
+	color:#f7b345;;
 }
 .add-left p label{
 	display:block;
@@ -413,7 +413,7 @@ span.menu{
 	color:#fff;
 }
 .footer-top p a:hover{
-	color:#ae4d10;
+	color:#f7b345;;
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
 	-moz-transition: 0.5s all ease;
@@ -476,7 +476,7 @@ span.menu{
 }
 .date p {
     padding: 8px 15px;
-    background: #ae4d10;
+    background: #f7b345;;
     color: #fff;
     font-size: 18px;
 }
@@ -495,7 +495,7 @@ span.menu{
 .help-right {
     width: 50%;
     float: right;
-    background: #ae4d10;
+    background: #f7b345;;
     padding: 5.27% 3.5%;
 }
 .help-right h3{
@@ -536,7 +536,7 @@ a.tooltips span:before {
     width: 0;
     height: 0;
     border-top: 195px solid #036;
-    border-right: 0px solid #ae4d10;
+    border-right: 0px solid #f7b345;;
     border-left: 416px solid transparent;
     transform: rotate(90deg);
 }
