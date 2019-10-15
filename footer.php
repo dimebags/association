@@ -18,7 +18,7 @@
             </div>
             <div class="col-md-4 add-left">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <p><a href="mailto:example@email.com">contact@acp-prevention-specialisee.fr</a></p>
+                <p><a href="mailto:contact@acp-prevention-specialisee.fr">contact@acp-prevention-specialisee.fr</a></p>
             </div>
             <div class="clearfix"></div>
         </div>
