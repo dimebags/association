@@ -1,0 +1,29 @@
+h3{
+    font-size: 2.1em;
+    color: #f7b345;
+    margin: 0;
+    font-family: 'AllertaStencil-Regular';
+    margin-bottom: 50px;
+}
+h5{
+    font-size: 1.7em;
+    color: #f7b345;
+    margin: 0;
+    font-family: 'AllertaStencil-Regular';
+    margin-bottom: 50px;
+}
+.conseil-general img{
+    width: 350px !important;
+}
+.chennevieres img{
+    width: 250px !important;
+}
+.ministere-education img{
+    width: 190px !important;
+}
+.mission-locale img{
+    width: 250px !important;
+}
+.text-center{
+    margin-bottom: 75px !important;
+}
