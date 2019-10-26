@@ -50,9 +50,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="gallery-bottom grid">
 				<div class="g-1">
 					<div class="col-md-3 g-left">
-						<a href="images/g1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/association/images/gallerie/photo1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g1.jpg" alt=""/>
+								<img src="/association/images/gallerie/photo1.jpg" alt=""/>
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
@@ -61,9 +61,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="images/g2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/association/images/gallerie/photo2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g2.jpg" alt=""/>
+								<img src="/association/images/gallerie/photo2.jpg" alt=""/>
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
@@ -72,9 +72,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-6 g-right">
-						<a href="images/g-3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/association/images/gallerie/photo3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g3.jpg" alt="img09"/>
+								<img src="/association/images/gallerie/photo3.jpg" alt="img09"/>
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
@@ -85,10 +85,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="clearfix"> </div>
 				</div>
 				<div class="g-2">
-					<div class="col-md-6 g-right">
-						<a href="images/g-4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+					<div class="col-md-6 g-right" style="margin-top: -700px;">
+						<a href="/association/images/gallerie/photo4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g4.jpg" alt="img09"/>
+								<img src="/association/images/gallerie/photo4.jpg" alt="img09"/>
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
@@ -97,9 +97,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="images/g5.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/association/images/gallerie/photo6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g5.jpg" alt="img09"/>
+								<img src="/association/images/gallerie/photo6.jpg" alt="img09"/ style="height: 600px">
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
@@ -108,45 +108,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="images/g6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/association/images/gallerie/photo7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="images/g6.jpg" alt="img09"/>
-								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
-								</figcaption>			
-							</figure>
-						</a>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="g-2">
-					<div class="col-md-3 g-left">
-						<a href="images/g7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
-							<figure class="effect-oscar">
-								<img src="images/g7.jpg" alt="img09"/>
-								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
-								</figcaption>			
-							</figure>
-						</a>
-					</div>
-					<div class="col-md-3 g-left">
-						<a href="images/g1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
-							<figure class="effect-oscar">
-								<img src="images/g1.jpg" alt="img09"/>
-								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
-								</figcaption>			
-							</figure>
-						</a>
-					</div>
-					<div class="col-md-6 g-right">
-						<a href="images/g-9.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
-							<figure class="effect-oscar">
-								<img src="images/g9.jpg" alt="img09"/>
+								<img src="/association/images/gallerie/photo7.jpg" alt="img09" style="height: 600px"/>
 								<figcaption>
 									<h2>Sed id dolor</h2>
 									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
