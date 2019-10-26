@@ -120,6 +120,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="clearfix"> </div>
 				</div>
+				<div class="g-2">
+					<div class="col-md-12 g-right">
+						<a href="/association/images/gallerie/photo11.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+							<figure class="effect-oscar">
+								<img src="/association/images/gallerie/photo11.jpg" alt="img11"/>
+								<figcaption>
+									<h2>Sed id dolor</h2>
+									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								</figcaption>			
+							</figure>
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
 			</div>
 		</div>
 	</div>
