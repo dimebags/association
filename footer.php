@@ -11,14 +11,14 @@
             </div>
             <div class="col-md-4 add-left">
                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <p>Dominique Guibert
-                    Directrice
+                <p>Kadder Righi
+                    Directeur
 
                 <br>01.48.85.42.63</p>
             </div>
             <div class="col-md-4 add-left">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <p><a href="mailto:contact@acp-prevention-specialisee.fr">contact@acp-prevention-specialisee.fr</a></p>
+                <p><a href="mailto:contact@acp-prevention-specialisee.fr">assoacp94@gmail.com</a></p>
             </div>
             <div class="clearfix"></div>
         </div>

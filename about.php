@@ -91,7 +91,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="why-2">
 						<span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
 						<div class="why-text">
-							<h4>L'absence de Mandat</h4>
+							<h4>L'absence de Mandat nominatif</h4>
 							<p>L'éducateur de Prévention rencontre les jeunes et les familles dans leur milieu naturel de vie sans qu'existe un mandat administratif ou judiciaire désignant nommément la personne à prendre en charge.
 								Cette relation s'instaure dans la durée grâce aux moments partagés sur le quartier.</p>
 						</div>
@@ -123,12 +123,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="team">
 		<div class="container">
 			<div class="team-top heading">
-				<h3>Notre Équipe</h3>
+				<h3>Nos Équipes</h3>
 			</div>
 			<div class="team-bottom">
 				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
 					<a href="#">
-						<img src="images/t1.jpg" alt="">
 						<div class="captn">
 							<h4>Beau-frère</h4>
 							<p>Nam id urna ipsum</p>
@@ -141,7 +140,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
 					<a href="#">
-						<img src="images/t2.jpg" alt="">
 						<div class="captn">
 							<h4>Adaline</h4>
 							<p>Nam id urna ipsum</p>
@@ -154,7 +152,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
 					<a href="#">
-						<img src="images/t3.jpg" alt="">
 						<div class="captn">
 							<h4>Thomas</h4>
 							<p>Nam id urna ipsum</p>
@@ -167,7 +164,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
 					<a href="#">
-						<img src="images/t4.jpg" alt="">
 						<div class="captn">
 							<h4>Selena</h4>
 							<p>Nam id urna ipsum</p>
