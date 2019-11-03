@@ -42,32 +42,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="row">
 				<div class="col-md-4 conseil-general text-center">
-					<img src="/images/partenaires/g2.jpg" alt="conseil général du val de marne">
+					<img src="/association/images/partenaires/g2.jpg" alt="conseil général du val de marne">
 				</div>
 				<div class="col-md-4 partenaire-image text-center">
-					<img src="/images/partenaires/Logo-Champigny.gif" alt="ville de champigny">
+					<img src="/association/images/partenaires/Logo-Champigny.gif" alt="ville de champigny">
 				</div>
 				<div class="col-md-4 chennevieres text-center">
-					<img src="/images/partenaires/logo_chennevieres.png" alt="chennevieres">
+					<img src="/association/images/partenaires/logo_chennevieres.png" alt="chennevieres">
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4 ministere-education text-center">
-					<img src="/images/partenaires/logo_ministereeducation.jpg" alt="ministere education nationale">
+					<img src="/association/images/partenaires/logo_ministereeducation.jpg" alt="ministere education nationale">
 				</div>
 				<div class="col-md-4 cio text-center ">
-					<img src="/images/partenaires/logo_cio_champigny.jpg" alt="cio">
+					<img src="/association/images/partenaires/logo_cio_champigny.jpg" alt="cio">
 				</div>
 				<div class="col-md-4 mission-locale text-center">
-					<img src="/images/partenaires/logo_missionlocaleborddemarne94.jpg" alt="mission locale">
+					<img src="/association/images/partenaires/logo_missionlocaleborddemarne94.jpg" alt="mission locale">
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4 mission-locale text-center">
-					<img src="/images/partenaires/logo_migrants_champigny.jpg" alt="migrants champigny">
+					<img src="/association/images/partenaires/logo_migrants_champigny.jpg" alt="migrants champigny">
 				</div>
 				<div class="col-md-4 maison-ado text-center">
-					<img src="/images/partenaires/logo_maisonadolescent.jpg" alt="maison adolescent">
+					<img src="/association/images/partenaires/logo_maisonadolescent.jpg" alt="maison adolescent">
 				</div>
 			</div>
 			<div class="row">
