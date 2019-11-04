@@ -54,8 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo1.jpg" alt=""/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+									<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
@@ -65,8 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo2.jpg" alt=""/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+									<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
@@ -76,8 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo3.jpg" alt="img09"/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								<h2>Association Champigny Prévention</h2>r</p>
 								</figcaption>			
 							</figure>
 						</a>
@@ -90,8 +87,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo4.jpg" alt="img09"/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
@@ -101,8 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo6.jpg" alt="img09"/ style="height: 600px">
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
@@ -112,8 +107,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo7.jpg" alt="img09" style="height: 600px"/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
@@ -126,8 +120,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<figure class="effect-oscar">
 								<img src="/association/images/gallerie/photo11.jpg" alt="img11"/>
 								<figcaption>
-									<h2>Sed id dolor</h2>
-									<p>Vestibulum mollis mollis elit nec ullamcorper</p>
+								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
 							</figure>
 						</a>
