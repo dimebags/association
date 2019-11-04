@@ -69,6 +69,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 maison-ado text-center">
 					<img src="/association/images/partenaires/logo_maisonadolescent.jpg" alt="maison adolescent">
 				</div>
+				<div class="col-md-4 maison-ado text-center">
+					<img src="/association/images/partenaires/3f.jpg" alt="3f immobilier" style="width: 100%;">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 mission-locale text-center">
+					<img src="/association/images/partenaires/parisHabitat.png" alt="paris habitat" style="width: 100%;">
+				</div>
+				<div class="col-md-4 maison-ado text-center">
+					<img src="/association/images/partenaires/valophis.jpg" alt="valophis" style="width: 100%;">
+				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
