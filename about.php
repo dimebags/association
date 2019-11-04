@@ -39,7 +39,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="about-bottom">
 				<div class="col-md-5 about-left"> 
-					<img src="images/abt1.jpg" alt="" />
+					<img src="images/w1.jpg" alt="" />
 				</div>
 				<div class="col-md-7 about-right">
 					<h4>La Prévention Spécialisée prend sens dans le cadre de la Protection de l'Enfance.
@@ -107,11 +107,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 				<div class="col-md-5 why-right"> 
-					<img src="images/w1.jpg" alt="" />
+					<img src="images/gallerie/champigny.jpg" alt="" />
 
-					<img src="images/w1.jpg" alt="" />
+					<img src="images/gallerie/photo11.jpg" alt="" />
 
-					<img src="images/w1.jpg" alt="" />
+					<img src="images/gallerie/grafiti1.jpg" alt="" />
 
 				</div>
 				<div class="clearfix"> </div>
@@ -123,58 +123,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="team">
 		<div class="container">
 			<div class="team-top heading">
-				<h3>Nos Équipes</h3>
+				<h3>Notre organigramme</h3>
 			</div>
-			<div class="team-bottom">
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<div class="captn">
-							<h4>Beau-frère</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Beau-frère</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
+			<div class="row">
+				<div class="col-md-offset-2 col-md-8">
+					<img src="./images/organigramme.png" alt="organigramme">				
 				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<div class="captn">
-							<h4>Adaline</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Adaline</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<div class="captn">
-							<h4>Thomas</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Thomas</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<div class="captn">
-							<h4>Selena</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Selena</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
-				<div class="clearfix"></div>
 			</div>
 		</div>
 	</div>

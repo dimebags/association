@@ -40,20 +40,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="slides">
 						<li>
 							<div class="banner-text">
-								<h3>Lorem ipsum dolor sit amet</h3>
-								<p>Aenean consectetur fringilla mi</p>
+							<a href="https://www.facebook.com" target="_blank">
+								<h3>Contact via facebook</h3>
+								<p>découvrez notre page facebook</p></a>
 							</div>
 						</li>
 						<li>
 							<div class="banner-text">
-								<h3>Lorem ipsum dolor sit amet</h3>
-								<p>Aenean consectetur fringilla mi</p>
+							<a href="/association/about.php">
+								<h3>Qui sommes nous ?</h3>
+								<p>découvrez l'assocication champigny prévention</p>
+							</a>
 							</div>
 						</li>
 						<li>
 							<div class="banner-text">
-								<h3>Lorem ipsum dolor sit amet</h3>
-								<p>Aenean consectetur fringilla mi</p>
+							<a href="/association/typo.php">
+								<h3>Nos Partenariats</h3>
+								<p>Ils nous accompagnent au quotidien</p>
+							</a>
 							</div>
 						</li>
 					</ul>
@@ -162,59 +167,11 @@ Il y a  quantité  de choses  dites, de représentations à préciser, et de par
 			<div class="team-top heading">
 				<h3>Notre Organigramme</h3>
 			</div>
-			<div class="team-bottom">
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<img src="images/t1.jpg" alt="">
-						<div class="captn">
-							<h4>Jane Doe</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Jane Doe</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
+			<div class="row">
+				<div class="col-md-offset-2 col-md-8">
+					<img src="./images/organigramme.png" alt="organigramme">				
 				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<img src="images/t2.jpg" alt="">
-						<div class="captn">
-							<h4>Adaline</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Adaline</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<img src="images/t3.jpg" alt="">
-						<div class="captn">
-							<h4>Thomas</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Thomas</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
-				<div class="col-md-3 team-left wow bounceIn animated" data-wow-delay=".5s" style="visibility: visible; -webkit-animation-delay: .5s;">
-					<a href="#">
-						<img src="images/t4.jpg" alt="">
-						<div class="captn">
-							<h4>Selena</h4>
-							<p>Nam id urna ipsum</p>
-						</div>
-						<div class="team-text">
-							<h5>Selena</h5>
-							<p>Nam id urna ipsum</p>
-						</div>
-					</a>					
-				</div>
+			</div>
 				<div class="clearfix"></div>
 			</div>
 		</div>
