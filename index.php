@@ -47,7 +47,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</li>
 						<li>
 							<div class="banner-text">
-							<a href="/about.php">
+							<a href="/association/about.php">
 								<h3>Qui sommes nous ?</h3>
 								<p>découvrez l'assocication champigny prévention</p>
 							</a>
@@ -55,9 +55,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</li>
 						<li>
 							<div class="banner-text">
-							<a href="/typo.php">
+							<a href="/association/typo.php">
 								<h3>Nos Partenariats</h3>
-								<p>Les partenaires qui nous accompagnent au quotidien</p>
+								<p>Ils nous accompagnent au quotidien</p>
 							</a>
 							</div>
 						</li>
