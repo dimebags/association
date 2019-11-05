@@ -172,7 +172,7 @@ span.menu{
 /*--Header-Ends--*/
 /*--banner-starts--*/
 .banner{
-	background:url(../images/gallerie/champigny.jpg) no-repeat;
+	background:url(../images/champigny.jpg) no-repeat;
 	min-height:650px;
 	background-size:cover;
 	-webkit-background-size:cover;
@@ -465,6 +465,7 @@ span.menu{
 .event {
     background: rgba(93, 92, 92, 0.06);
     padding: 15px 20px;
+    height: 100px;
 }
 .event-left{
 	position:relative;

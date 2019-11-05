@@ -47,7 +47,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</li>
 						<li>
 							<div class="banner-text">
-							<a href="/association/about.php">
+							<a href="/about.php">
 								<h3>Qui sommes nous ?</h3>
 								<p>découvrez l'assocication champigny prévention</p>
 							</a>
@@ -55,7 +55,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</li>
 						<li>
 							<div class="banner-text">
-							<a href="/association/typo.php">
+							<a href="/typo.php">
 								<h3>Nos Partenariats</h3>
 								<p>Ils nous accompagnent au quotidien</p>
 							</a>
@@ -139,7 +139,7 @@ Il y a  quantité  de choses  dites, de représentations à préciser, et de par
 			</div>	
 			<div class="events-bottom">
 				<div class="col-md-6 event-left">
-					<img src="/association/images/gallerie/grafiti1.jpg" alt="grafiti 1" />
+					<img src="/images/gallerie/grafiti1.jpg" alt="grafiti 1" />
 					<div class="event">
 						<h4>Chantier Educatif Mordac</h4>
 						<p> Une équipe de jeune de champigny </p>
@@ -149,10 +149,11 @@ Il y a  quantité  de choses  dites, de représentations à préciser, et de par
 					</div>
 				</div>	
 				<div class="col-md-6 event-right">
-					<div class="e-2">
-					<img src="/association/images/gallerie/grafiti3.jpg" alt="" />
-						<h4>Chantier Educatif Champigny</h4>
-					</div>
+					<img src="/images/gallerie/grafiti3.jpg" alt="" height='340' />
+                    <div class="event">
+                        <h4>Chantier Educatif Champigny</h4>
+                        <p> </p>
+                    </div>
 				</div>	
 				
 			</div>
@@ -168,10 +169,21 @@ Il y a  quantité  de choses  dites, de représentations à préciser, et de par
 				<h3>Notre Organigramme</h3>
 			</div>
 			<div class="row">
-				<div class="col-md-offset-2 col-md-8">
-					<img src="./images/organigramme.png" alt="organigramme">				
+				<div class="col-md-12  text-center">
+					<img src="./images/organigramme.png" alt="organigramme">
 				</div>
 			</div>
+            <div class="team-top heading">
+                <h3>Notre Historique</h3>
+            </div>
+            <div class="row">
+                <div class=" col-md-12 text-center welcome-two">
+                    <a href="images/historique_acp.odt"
+                       download="historique_acp.odt">
+                        <img alt="download" src="images/bouton-dowload.png" width="50" height="50">
+                    </a>
+                </div>
+            </div>
 				<div class="clearfix"></div>
 			</div>
 		</div>
