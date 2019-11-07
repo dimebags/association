@@ -35,25 +35,38 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="contact">
 		<div class="container"> 
 			<div class="contact-top heading"> 
-				<h2>Contact Us</h2>
+				<h2>Nous trouver</h2>
 			</div>
 			<div class="map">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d47753.14235372253!2d-87.8390792!3d41.57851990000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skohl&#39;s!5e0!3m2!1sen!2sin!4v1436335323316" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://maps.google.com/maps?q=11%20avenue%20Eug%C3%A8ne%20Courel%2094500%20&t=&z=13&ie=UTF8&iwloc=&output=embed" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="contact-form heading">
-				<h3>Contact Form</h3>
-				<p>Donec egestas nibh eu ipsum euismod cursus. Aliquam et arcu blandit, efficitur ante a, lacinia neque. Pellentesque lectus neque, vehicula vitae massa ac, malesuada dictum velit.</p>
-				<div class="contact-bottom">
-					<form>
-						<input type="text" placeholder="Name">
-						<input type="text" placeholder="Email">
-						<input type="text" placeholder="Phone">
-						<textarea placeholder="Message" required></textarea>
-						<div class="submit-btn">
-							<input type="submit" value="SUBMIT">
-						</div>
-					</form>
-				</div>
+				<h3>Nous contacter</h3>
+
+                <br>
+
+
+
+
+                <row>
+                    <div class="col-md-12 col-sm-12">
+                        <div class="panel teams">
+                            <div class="panel-heading "><h3> <b><span><img src="/images/team.jpeg" width='70' height='60' alt=""><br> Bois l'abbé</span></b> </h3></div>
+                            <div class="panel-body"><p><span class="glyphicon glyphicon-phone"></span> 0762749529  <span class="glyphicon glyphicon-phone"></span> 0615559943</p></div>
+                        </div>
+                    </div>
+                </row>
+
+
+                <row>
+                    <div class="col-md-12 col-sm-12 ">
+                        <div class="panel teams">
+                            <div class="panel-heading"><h3><b><span><img src="/images/team.jpeg" width='70' height='60' alt=""><br> CJBPM</span></b> </h3></div>
+                            <div class="panel-body"><p><span class="glyphicon glyphicon-phone"></span> 0662698701  <span class="glyphicon glyphicon-phone"></span> 0663231953</p></div>
+                        </div>
+                    </div>
+                </row>
+
 			</div>
 		</div>
 	</div>

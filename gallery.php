@@ -45,14 +45,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="gallery">
 		<div class="container">
 			<div class="gallery-top heading">
-				<h3>Gallery</h3>
+				<h3>Gallerie</h3>
 			</div>
 			<div class="gallery-bottom grid">
 				<div class="g-1">
 					<div class="col-md-3 g-left">
-						<a href="/association/images/gallerie/photo1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo1.jpg" alt=""/>
+								<img src="/images/gallerie/photo1.jpg" alt=""/>
 								<figcaption>
 									<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -60,9 +60,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="/association/images/gallerie/photo2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo2.jpg" alt=""/>
+								<img src="/images/gallerie/photo2.jpg" alt=""/>
 								<figcaption>
 									<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -70,9 +70,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-6 g-right">
-						<a href="/association/images/gallerie/photo3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo3.jpg" alt="img09"/>
+								<img src="/images/gallerie/photo3.jpg" alt="img09"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>r</p>
 								</figcaption>			
@@ -83,9 +83,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="g-2">
 					<div class="col-md-6 g-right" style="margin-top: -700px;">
-						<a href="/association/images/gallerie/photo4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo4.jpg" alt="img09"/>
+								<img src="images/gallerie/photo4.jpg" alt="img09"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -93,9 +93,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="/association/images/gallerie/photo6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo6.jpg" alt="img09"/ style="height: 600px">
+								<img src="/images/gallerie/photo6.jpg" alt="img09"/ style="height: 600px">
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -103,9 +103,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 					</div>
 					<div class="col-md-3 g-left">
-						<a href="/association/images/gallerie/photo7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo7.jpg" alt="img09" style="height: 600px"/>
+								<img src="/images/gallerie/photo7.jpg" alt="img09" style="height: 600px"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -116,9 +116,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="g-2">
 					<div class="col-md-12 g-right">
-						<a href="/association/images/gallerie/photo11.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="/images/gallerie/photo11.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/association/images/gallerie/photo11.jpg" alt="img11"/>
+								<img src="/images/gallerie/photo11.jpg" alt="img11"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			

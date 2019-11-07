@@ -130,6 +130,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="./images/organigramme.png" alt="organigramme">				
 				</div>
 			</div>
+
+            <div class="team-top heading">
+                <h3>Notre Historique</h3>
+            </div>
+            <div class="row">
+                <div class=" col-md-12 text-center welcome-two">
+                    <a href="images/historique_acp.odt"
+                       download="historique_acp.odt">
+                        <img alt="download" src="images/bouton-dowload.png" width="50" height="50">
+                    </a>
+                </div>
+            </div>
+
+
 		</div>
 	</div>
 	<!--team-end-->

@@ -756,6 +756,10 @@ figure.effect-oscar:hover img {
     height: 10.4em;
 	width: 100%;
 }
+.teams .panel-heading span {
+
+    color:#99cc99;
+}
 .submit-btn input[type=submit] {
     color: #999;
     padding: 7px 30px;
@@ -1004,6 +1008,7 @@ h3.ghj {
     margin: 3% auto 0;
     width: 73%;
 }
+
 .about-right p {
     font-size: 15px;
     margin-top: 4px;
