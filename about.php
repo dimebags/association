@@ -127,7 +127,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="row">
 				<div class="col-md-offset-2 col-md-8">
-					<img src="./images/organigramme.png" alt="organigramme">				
+					<img src="./images/organigramme.jpg" alt="organigramme" style="width: 100%">				
 				</div>
 			</div>
 

@@ -40,7 +40,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="slides">
 						<li>
 							<div class="banner-text">
-							<a href="https://www.facebook.com" target="_blank">
+							<a href="https://www.facebook.com/Association-ACP-115304023262106/" target="_blank">
 								<h3>Contact via facebook</h3>
 								<p>découvrez notre page facebook</p></a>
 							</div>
@@ -170,7 +170,7 @@ Il y a  quantité  de choses  dites, de représentations à préciser, et de par
 			</div>
 			<div class="row">
 				<div class="col-md-12  text-center">
-					<img src="./images/organigramme.png" alt="organigramme">
+					<img src="./images/organigramme.jpg" alt="organigramme" style="width: 100%">
 				</div>
 			</div>
             <div class="team-top heading">

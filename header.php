@@ -7,7 +7,7 @@
             </div>
             <div class="col-md-6 h-right">
                 <ul>
-                    <li><a href="https://www.facebook.com" target="_blank"><span class="fb"> </span></a></li>
+                    <li><a href="https://www.facebook.com/Association-ACP-115304023262106/" target="_blank"><span class="fb"> </span></a></li>
                     <li><a href="#"><span class="twit"> </span></a></li>
                     <li><a href="#"><span class="pin"> </span></a></li>
                     <li><a href="#"><span class="rss"> </span></a></li>

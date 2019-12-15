@@ -82,7 +82,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="clearfix"> </div>
 				</div>
 				<div class="g-2">
-					<div class="col-md-6 g-right" style="margin-top: -700px;">
+					<div class="col-md-6 g-right" style="margin-top: -217px;height: 300px">
 						<a href="/images/gallerie/photo4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
 								<img src="images/gallerie/photo4.jpg" alt="img09"/>
@@ -95,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-3 g-left">
 						<a href="/images/gallerie/photo6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/images/gallerie/photo6.jpg" alt="img09"/ style="height: 600px">
+								<img src="/images/gallerie/photo6.jpg" alt="img09"/ style="height: 654px">
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -105,7 +105,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-3 g-left">
 						<a href="/images/gallerie/photo7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 							<figure class="effect-oscar">
-								<img src="/images/gallerie/photo7.jpg" alt="img09" style="height: 600px"/>
+								<img src="/images/gallerie/photo7.jpg" alt="img09" style="height: 654px"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
 								</figcaption>			
@@ -117,7 +117,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="g-2">
 					<div class="col-md-12 g-right">
 						<a href="/images/gallerie/photo11.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
-							<figure class="effect-oscar">
+							<figure class="effect-oscar"  style="width: 100%;">
 								<img src="/images/gallerie/photo11.jpg" alt="img11"/>
 								<figcaption>
 								<h2>Association Champigny Prévention</h2>
