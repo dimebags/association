@@ -25,6 +25,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					event.preventDefault();
 					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 				});
+				$("body").click(function(event) {
+    				if (event.target.id != "popup") {
+        			$("#myPopup").removeClass("show");
+   				 }
+					else{
+						$("#myPopup").addClass("show");
+					}
+				});
 			});
 		</script>
 <!--start-smoth-scrolling-->
@@ -89,8 +97,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 welcome-left heading">
 					<h2>La prévention spécialisée</h2>
 					<h5>Le mot du Président</h5>
-					<p>Notre association œuvre depuis maintenant près de 35 ans   sur un territoire qui,  désormais, sous l’effet de  la nécessité a   dépassé    les limites  de Champigny    notre  commune « génitrice ».       
-Il y a  quantité  de choses  dites, de représentations à préciser, et de paroles à porter sur la Prévention spécialisée.</p>
+					<p>A l’origine   créée  sous l’égide de la municipalité de Champigny  sur Marne ,   notre association regroupait   des  bénévoles    engagés  en faveur  des loisirs et de l’insertion citoyenne des  jeunes de notre ville <span id="popup" class="popup">Lire la suite</span></p>
+					<span id="myPopup" class="popuptext"> A l’origine   créée  sous l’égide de la municipalité de Champigny  sur Marne ,   notre association regroupait   des  bénévoles    engagés  en faveur  des loisirs et de l’insertion citoyenne des  jeunes de notre ville .
+L’ Association  Champigny Prévention  (ACP)    est issue   de  la perception   que ,  pour un certains   d’entre eux    , un  besoin   croissant s’imposait   d’une approche différenciée   et d’un accompagnement éducatif  qui leur soit mieux  mieux adaptés   .
+Ni le principe d’égalité  affirmé  au cœur de  la devise de notre République  ni même les   fameuses  «  30 glorieuses » n’ont   jamais  « ruisselé »   sur  ce qu’il est  habituel de désigner comme «  les quartiers ». Un très grand nombre de leurs habitants   sont   désormais  dans le camp et les territoires  des «  perdants » d’une inégalité maintenant installée mais pas fatale.
+Beaucoup   , trop   ,  enfants  et   jeunes   ,   sont  marqués par la précarité et ses conséquences multiformes  particulières et collectives .
+Mais chacun , ou chacune  dispose  pourtant d’ une  capacité à  échapper à l’exclusion ,   à la résignation et ou à la violence  contre eux - mêmes ou leurs semblables .
+Ces jeunes en particulier  , ont besoin  ,  c’est urgent   , d’ efforts conjugués d’  intervenants institutionnel qui  reconnaissent  et valident leurs droits   mais  ils ont aussi celui    d’un accompagnement éducatif  spécifique et «  personnalisé »    qui  puisse les aider   à  retrouver   le   désir  et le chemin d’un projet de vie   à  dimension  citoyenne. 
+La démarche est  difficile , elle repose  avant tout   sur  le rétablissement   d’une remise  en  confiance. C’est  cette   mission  ,  ardue mais primordiale   ,  qui est celle  des  éducatrices et éducateurs  spécialisé(e)s   au sein des  équipes de prévention   . 
+Dans tous  les lieux où ces jeunes  se trouvent   ,  sans jugement préalable  ,  ils   n’ont pas d’autre mandat que de les approcher ,  de les accompagner   et de trouver avec elles ou  eux , le cas échéant leurs familles ,  les moyens  de   cette nouvelle  relation   de confiance .
+C’est à  cette mission       qu’avec   l’apport  fondamental  du   Conseil  Départemental du Val de Marne   , les membres de notre   conseil d’administration  toutes et tous bénévoles ,  sont  ,  aussi  résolument attachés
+Ils le sont   par  le soutien  qu’ils apportent   aux  équipes  ,  à  leur encadrement    et par  leurs contributions   à la  construction ou à la validation des projets.
+Il est nécessaire que  cet engagement   et  ce travail   soient connus et reconnus    autant  qu’ils sont   indispensables.
+C’est   un maillon solide de la chaîne qui lie  la vie collective des «  quartiers » .
+Ce site  est donc  inspiré  par  la volonté de contribuer   au  dépassement    du  caractère trop souvent  confidentiel   du  travail   effectué  en le décrivant  afin de   valoriser  l’ apport précieux  qu’ est celui  de l’Education Spécialisée.  </span>
 				</div>	
 				<div class="col-md-4 welcome-left">
 					<div class="welcome-one">
