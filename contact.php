@@ -53,6 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <div class="panel teams">
                             <div class="panel-heading "><h3> <b><span><img src="/images/team.jpeg" width='70' height='60' alt=""><br> Bois l'abbé</span></b> </h3></div>
                             <div class="panel-body"><p><span class="glyphicon glyphicon-phone"></span> 0762749529  <span class="glyphicon glyphicon-phone"></span> 0615559943</p></div>
+                            <div class="panel-body"><p>11,  villa du Roussillon Chennevieres, 94500 Champigny Sur Marne</p></div>
                         </div>
                     </div>
                 </row>
@@ -63,6 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <div class="panel teams">
                             <div class="panel-heading"><h3><b><span><img src="/images/team.jpeg" width='70' height='60' alt=""><br> CJBPM</span></b> </h3></div>
                             <div class="panel-body"><p><span class="glyphicon glyphicon-phone"></span> 0662698701  <span class="glyphicon glyphicon-phone"></span> 0663231953</p></div>
+                            <div class="panel-body"><p>Rue Elisée Reclus, 94500 Champigny Sur Marne</p></div>
                         </div>
                     </div>
                 </row>
